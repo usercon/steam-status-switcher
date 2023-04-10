@@ -1,12 +1,12 @@
-# **_steam-status-spam_**
+# steam-status-spam
 
 <sub>simple batch code made to annoy people from your friend list by spamming status change
 
 usage: press "1" to make it start</sub>
 
-#
 
-# **steam-status-switcher**
+
+# steam-status-switcher
 
 <sub>neatly organized mini batch tool which let you to select one of the following status:
 
