@@ -6,7 +6,7 @@ usage: press "1" to make it start</sub>
 
 
 
-# steam-status-switcher
+# steam-status-switch
 
 <sub>neatly organized mini batch tool which let you to select one of the following status:
 
