@@ -1,6 +1,6 @@
 # steam-status-spam
 
-simple batch code made to anoy people from your friendlist by spamming status change
+simple batch code made to annoy people from your friend list by spamming status change
 
 usage: press "1" to make it start
 
